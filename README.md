@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student at AGH University of Krakow | Software Developer</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/iga-szaflik-590b8b384/](https://www.linkedin.com/in/iga-szaflik-590b8b384/)">
+  <a href="https://www.linkedin.com/in/iga-szaflik-590b8b384/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:igaszaf@gmail.com">
