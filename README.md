@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Iga! 👋</h1>
+<h1 align="center">I'm Iga</h1>
 
 <h3 align="center">Computer Science Student at AGH University of Krakow | Software Developer</h3>
 
