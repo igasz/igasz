@@ -28,5 +28,8 @@ I'm currently studying **Computer Science** at **AGH University of Krakow**.
 * **[FEM Gravity Potential Solver](https://github.com/igasz/FEM_Gravity_Potential_Solver.git)** - Python app calculating gravitational potential using Gauss-Legendre quadrature.
 * **[Factory SQL Database](https://github.com/pawelmalkowski4/BazyDanych.git)** - Advanced T-SQL relational database system for managing manufacturing workflows.
 * **[Smart Pantry (Zero-Waste System)](https://github.com/kassimma123/BD_2_Piskorz_Szaflik)** - Full-stack application managing restaurant inventory to minimize food waste. Developed a robust backend using Python (FastAPI) to expose REST APIs and manage complex Oracle DB logic (transactions, triggers, PL/SQL). Built the frontend in React, showcasing strong system architecture and data-handling skills.
+* [My Sites](https://github.com/igasz/my-sites.git)
+  * **Formula 1 site** - A multi-page enthusiast website dedicated to F1, featuring a dynamic race calendar, multimedia gallery, and an interactive contact form.
+  * **Flappy Bird** - A web-based recreation of the classic arcade game, built with JavaScript to handle physics, collision detection, and scoring.
 
 
