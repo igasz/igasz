@@ -30,9 +30,3 @@ I'm currently studying **Computer Science** at **AGH University of Krakow**.
 * **[Smart Pantry (Zero-Waste System)]("https://github.com/kassimma123/BD_2_Piskorz_Szaflik") - Full-stack application managing restaurant inventory to minimize food waste. Developed a robust backend using Python (FastAPI) to expose REST APIs and manage complex Oracle DB logic (transactions, triggers, PL/SQL). Built the frontend in React, showcasing strong system architecture and data-handling skills.
 
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igasz&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB" alt="Iga's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igasz&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" alt="Top Languages" />
-</p>
